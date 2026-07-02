@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ramesh330/Leetcode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/ramesh330/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/ramesh330/Leetcode/tree/master/0263-ugly-number) |
 ## Simulation
 |  |
 | ------- |
