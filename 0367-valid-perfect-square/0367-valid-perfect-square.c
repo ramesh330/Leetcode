@@ -1,12 +1,15 @@
 bool isPerfectSquare(int num) 
 {
-    long int i=1;
-    while(i<=num)
+    if(num<1) return false;
+    long low = 1,high = num;
+    while(low<=high)
     {
-        if(i*i==num)
-        return true;
-        else
-        i++;
+        long mid = low + (high - low)/2;
+        long sq = mid * mid;
+
+        if(sq==num) return true;
+        else if(sq<num) low = mid + 1;
+        else high = mid - 1;
     }
     return false;
 }
