@@ -9,16 +9,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ramesh330/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ramesh330/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/ramesh330/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ramesh330/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ramesh330/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/ramesh330/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ramesh330/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ramesh330/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/ramesh330/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ramesh330/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ramesh330/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ramesh330/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ramesh330/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ramesh330/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ramesh330/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
