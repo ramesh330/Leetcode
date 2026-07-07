@@ -1,0 +1,14 @@
+bool canConstruct(char* ransomNote, char* magazine) 
+{
+    int arr[26]={0};
+    for(int i=0; magazine[i]!='\0'; i++)
+    arr[magazine[i] - 'a']++;
+
+    for(int i=0; ransomNote[i]!='\0'; i++)
+    {
+        if(arr[ransomNote[i]-'a'] == 0) 
+        return false;
+        else arr[ransomNote[i]-'a']--;
+    }
+    return true;
+}
