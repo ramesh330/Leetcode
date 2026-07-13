@@ -1,15 +1,10 @@
-#include<stdio.h>
-bool isPalindrome(int x)
-{
-    long int temp,rem,rev = 0;
-    temp = x;
-    while(x > 0){
-        rem = x % 10;
-        rev = rem + (rev * 10);
-        x = x / 10;
+bool isPalindrome(int x) {
+    long long int res=0;
+    long long int temp=x;
+    while(x>0){
+        res = (x%10) + (res*10);
+        x/=10;
     }
-    if(temp == rev)
-       return true;
-    else
-        return false;
+    if(temp==res) return true;
+    else return false;
 }
