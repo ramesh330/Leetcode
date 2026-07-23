@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ramesh330/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ramesh330/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ramesh330/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0724-find-pivot-index](https://github.com/ramesh330/Leetcode/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/ramesh330/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ramesh330/Leetcode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ramesh330/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramesh330/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ramesh330/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
