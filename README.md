@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ramesh330/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ramesh330/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ramesh330/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ramesh330/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ramesh330/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/ramesh330/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/ramesh330/Leetcode/tree/master/0507-perfect-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ramesh330/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/ramesh330/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ramesh330/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ramesh330/Leetcode/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/ramesh330/Leetcode/tree/master/0832-flipping-an-image) |
 ## Sorting
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/ramesh330/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ramesh330/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ramesh330/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
