@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ramesh330/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ramesh330/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ramesh330/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0866-prime-palindrome](https://github.com/ramesh330/Leetcode/tree/master/0866-prime-palindrome) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ramesh330/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ramesh330/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ramesh330/Leetcode/tree/master/0258-add-digits) |
+| [0866-prime-palindrome](https://github.com/ramesh330/Leetcode/tree/master/0866-prime-palindrome) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ramesh330/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1975-maximum-matrix-sum](https://github.com/ramesh330/Leetcode/tree/master/1975-maximum-matrix-sum) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/ramesh330/Leetcode/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
