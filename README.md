@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ramesh330/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ramesh330/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ramesh330/Leetcode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/ramesh330/Leetcode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/ramesh330/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ramesh330/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ramesh330/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ramesh330/Leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/ramesh330/Leetcode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/ramesh330/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
