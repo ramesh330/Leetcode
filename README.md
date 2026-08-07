@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ramesh330/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ramesh330/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ramesh330/Leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/ramesh330/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/ramesh330/Leetcode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/ramesh330/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ramesh330/Leetcode/tree/master/0268-missing-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ramesh330/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ramesh330/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ramesh330/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/ramesh330/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/ramesh330/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ramesh330/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ramesh330/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ramesh330/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ramesh330/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ramesh330/Leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/ramesh330/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0766-toeplitz-matrix](https://github.com/ramesh330/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/ramesh330/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ramesh330/Leetcode/tree/master/0867-transpose-matrix) |
