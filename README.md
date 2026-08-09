@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ramesh330/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ramesh330/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/ramesh330/Leetcode/tree/master/0118-pascals-triangle) |
+| [0189-rotate-array](https://github.com/ramesh330/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ramesh330/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ramesh330/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ramesh330/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ramesh330/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ramesh330/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/ramesh330/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/ramesh330/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/ramesh330/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ramesh330/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ramesh330/Leetcode/tree/master/0268-missing-number) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ramesh330/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramesh330/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ramesh330/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/ramesh330/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ramesh330/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ramesh330/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ramesh330/Leetcode/tree/master/0349-intersection-of-two-arrays) |
