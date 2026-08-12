@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ramesh330/Leetcode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/ramesh330/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ramesh330/Leetcode/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/ramesh330/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/ramesh330/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ramesh330/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ramesh330/Leetcode/tree/master/0383-ransom-note) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ramesh330/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ramesh330/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/ramesh330/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0299-bulls-and-cows](https://github.com/ramesh330/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/ramesh330/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ramesh330/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ramesh330/Leetcode/tree/master/0383-ransom-note) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/ramesh330/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/ramesh330/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramesh330/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1603-design-parking-system](https://github.com/ramesh330/Leetcode/tree/master/1603-design-parking-system) |
