@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ramesh330/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/ramesh330/Leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/ramesh330/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ramesh330/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ramesh330/Leetcode/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ramesh330/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ramesh330/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ramesh330/Leetcode/tree/master/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/ramesh330/Leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/ramesh330/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
