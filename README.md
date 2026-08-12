@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ramesh330/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ramesh330/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ramesh330/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ramesh330/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ramesh330/Leetcode/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/ramesh330/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/ramesh330/Leetcode/tree/master/0507-perfect-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ramesh330/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ramesh330/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ramesh330/Leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ramesh330/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ramesh330/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/ramesh330/Leetcode/tree/master/0832-flipping-an-image) |
 ## Sorting
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ramesh330/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramesh330/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ramesh330/Leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ramesh330/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ramesh330/Leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/ramesh330/Leetcode/tree/master/0709-to-lower-case) |
 ## Queue
