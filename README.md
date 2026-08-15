@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/ramesh330/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ramesh330/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ramesh330/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ramesh330/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ramesh330/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/ramesh330/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/ramesh330/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ramesh330/Leetcode/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/ramesh330/Leetcode/tree/master/1603-design-parking-system) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ramesh330/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ramesh330/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ramesh330/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1975-maximum-matrix-sum](https://github.com/ramesh330/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ramesh330/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Design
 |  |
 | ------- |
