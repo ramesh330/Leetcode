@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/ramesh330/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/ramesh330/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ramesh330/Leetcode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/ramesh330/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ramesh330/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ramesh330/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ramesh330/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/ramesh330/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/ramesh330/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ramesh330/Leetcode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/ramesh330/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ramesh330/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1603-design-parking-system](https://github.com/ramesh330/Leetcode/tree/master/1603-design-parking-system) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ramesh330/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/ramesh330/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/ramesh330/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ramesh330/Leetcode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/ramesh330/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ramesh330/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ramesh330/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ramesh330/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
