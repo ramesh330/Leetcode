@@ -1,24 +1,26 @@
-int compare(const void* a,const void* b)
-{
-    return strcmp(*(char**)a, *(char**)b);
-}
-
 char* longestCommonPrefix(char** strs, int strsSize)
 {
-    if(strsSize==0) return "";
-
-    qsort(strs,strsSize,sizeof(char*),compare);
-
-    char* first = strs[0];
-    char* last = strs[strsSize-1];
-
     int i=0;
-    while(first[i] && first[i] == last[i])
-    i++;
+    while(strs[0][i])
+    {
+        for(int j=1; j<strsSize; j++)
+        {
+            if(strs[j][i] != strs[0][i])
+            {
+                char *res = malloc(i+1);
+                for(int k=0; k<i; k++)
+                res[k] = strs[0][k];
 
-    char* res = (char*)malloc((i+1) * sizeof(char));
-    strncpy(res,first,i);
+                res[i] = '\0';
+                return res;
+            }
+        }
+        i++;
+    }
+    char *res = malloc(i+1);
+    for(int k=0; k<i; k++)
+    res[k] = strs[0][k];
+
     res[i] = '\0';
-
     return res;
 }
