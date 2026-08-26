@@ -8,32 +8,24 @@
 struct ListNode* removeElements(struct ListNode* head, int val) 
 {
     if(head==NULL) return head;
-    struct ListNode *prev = head, *curr = head;
+
+    struct ListNode temp;
+    temp.next = head;
+
+    struct ListNode *prev = &temp, *curr = head;
 
     while(curr)
-    {
+    {    
         if(curr->val == val)
         {
-            if(head==curr)
-            {
-                head = curr->next;
-                curr = curr->next;
-                free(prev);
-                prev = curr;
-            }
-            else
-            {
-                curr = curr->next;
-                free(prev->next);
-                prev->next=curr;
-            }
-
+            prev->next = curr->next;
+            curr = curr->next;
         }
         else
         {
-            prev=curr;
-            curr=curr->next;
+            prev = curr;
+            curr = curr->next;
         }
     } 
-    return head;   
+    return temp.next;
 }
