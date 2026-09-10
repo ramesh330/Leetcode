@@ -9,12 +9,6 @@ struct ListNode* removeNthFromEnd(struct ListNode* head, int n) {
     struct ListNode* fast = head;
     struct ListNode* prev = NULL;
     struct ListNode* slow = head;
-
-    if(head->next==NULL && n==1)
-    {
-        free(head);
-        return NULL;
-    }
     int i=0;
     while(fast)
     {
