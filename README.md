@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ramesh330/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ramesh330/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ramesh330/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ramesh330/Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/ramesh330/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/ramesh330/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ramesh330/Leetcode/tree/master/0509-fibonacci-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ramesh330/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ramesh330/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ramesh330/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ramesh330/Leetcode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/ramesh330/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/ramesh330/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ramesh330/Leetcode/tree/master/0867-transpose-matrix) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ramesh330/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ramesh330/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ramesh330/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ramesh330/Leetcode/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/ramesh330/Leetcode/tree/master/0709-to-lower-case) |
 ## Queue
 |  |
