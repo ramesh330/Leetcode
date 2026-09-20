@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ramesh330/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1603-design-parking-system](https://github.com/ramesh330/Leetcode/tree/master/1603-design-parking-system) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ramesh330/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/ramesh330/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ramesh330/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ramesh330/Leetcode/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/ramesh330/Leetcode/tree/master/0709-to-lower-case) |
+| [3498-reverse-degree-of-a-string](https://github.com/ramesh330/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
 | ------- |
