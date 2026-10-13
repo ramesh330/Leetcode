@@ -4,15 +4,12 @@
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
     int *res = malloc(2*sizeof(int));
     for(int i=0; i<numsSize;i++){
-        for(int j=i; j<numsSize-1; j++){
-            if(nums[i]+nums[j+1]==target){
-             res[0] = i;
-             res[1] = j+1;
-             *returnSize = 2;
-             return res;
-           } 
-        }
+        for(int j=i+1; j<numsSize; j++)
+        if(nums[i]+nums[j]==target){
+            res[0] = i;
+            res[1] = j;
+        } 
     }
-    *returnSize = 0;
-    return NULL;
+    *returnSize = 2;
+    return res;
 }
