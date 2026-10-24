@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ramesh330/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ramesh330/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/ramesh330/Leetcode/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/ramesh330/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ramesh330/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ramesh330/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ramesh330/Leetcode/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/ramesh330/Leetcode/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/ramesh330/Leetcode/tree/master/0844-backspace-string-compare) |
+| [2409-count-days-spent-together](https://github.com/ramesh330/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/ramesh330/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
