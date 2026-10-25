@@ -5,19 +5,15 @@
  *     struct ListNode *next;
  * };
  */
-struct ListNode* middleNode(struct ListNode* head) 
-{
-    int count=1;
-    struct ListNode *temp = head,*temp1 = head;
+struct ListNode* middleNode(struct ListNode* head) {
+    struct ListNode* fast = head;
+    struct ListNode* slow = head;
 
-    while(temp)
+    while(fast && fast->next)
     {
-        if(count%2==0)
-        temp1 = temp1->next;
-
-        count++;
-        temp = temp->next;
+        fast = fast->next->next;
+        slow = slow->next;
     }
-    head = temp1;
+    head = slow;
     return head;
 }
