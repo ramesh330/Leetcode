@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ramesh330/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ramesh330/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ramesh330/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ramesh330/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/ramesh330/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ramesh330/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ramesh330/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ramesh330/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ramesh330/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ramesh330/Leetcode/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/ramesh330/Leetcode/tree/master/0338-counting-bits) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ramesh330/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ramesh330/Leetcode/tree/master/0055-jump-game) |
 | [1975-maximum-matrix-sum](https://github.com/ramesh330/Leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Primality Test
 |  |
