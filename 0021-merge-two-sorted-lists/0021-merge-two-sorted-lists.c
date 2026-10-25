@@ -8,55 +8,29 @@
 
 struct ListNode* mergeTwoLists(struct ListNode* list1, struct ListNode* list2) 
 {
-    if(list1==NULL && list2==NULL)
-    return list1;
+    struct ListNode res;
+    res.next = NULL;
+    struct ListNode *temp = &res;
 
-    if(list2==NULL)
-    return list1;
+    while(list1 && list2)
+    {
+        if(list1->val <= list2->val)
+        {
+            temp->next = list1;
+            list1 = list1->next;
+        }
+        else
+        {
+            temp->next = list2;
+            list2 = list2->next;
+        }
+        temp = temp->next;
+    }
 
-    if(list1==NULL)
-    return list2;
-
-    struct ListNode *temp = list1;
-    while(temp->next)
-    temp=temp->next;
-
+    if(list1)
+    temp->next = list1;
+    else
     temp->next = list2;
 
-    if(list1->next==NULL)
-    return list1;
-
-    int swapped;
-    do
-    {
-        swapped = 0;
-        struct ListNode *prev = NULL;
-        struct ListNode *curr = list1;
-
-        while(curr != NULL && curr->next != NULL)
-        {
-            struct ListNode *nextCurr = curr->next;
-            if(curr->val > nextCurr->val)
-            {
-                curr->next = nextCurr->next;
-                nextCurr->next = curr;
-
-                if(prev==NULL)
-                list1 = nextCurr;
-                else
-                prev->next = nextCurr;
-
-                prev = nextCurr;
-                swapped = 1;
-
-            }
-            else
-            {
-                prev = curr;
-                curr = curr->next;
-            }
-        }
-    }while(swapped);
-
-    return list1;
+    return res.next;
 }
