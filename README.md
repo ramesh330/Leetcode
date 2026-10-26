@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ramesh330/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ramesh330/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ramesh330/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ramesh330/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/ramesh330/Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ramesh330/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/ramesh330/Leetcode/tree/master/0189-rotate-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ramesh330/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ramesh330/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ramesh330/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ramesh330/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ramesh330/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramesh330/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/ramesh330/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ramesh330/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ramesh330/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ramesh330/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ramesh330/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -409,4 +412,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ramesh330/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ramesh330/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ramesh330/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
