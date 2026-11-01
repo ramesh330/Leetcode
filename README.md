@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/ramesh330/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ramesh330/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ramesh330/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ramesh330/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ramesh330/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/ramesh330/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ramesh330/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/ramesh330/Leetcode/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/ramesh330/Leetcode/tree/master/2409-count-days-spent-together) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ramesh330/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ramesh330/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ramesh330/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
