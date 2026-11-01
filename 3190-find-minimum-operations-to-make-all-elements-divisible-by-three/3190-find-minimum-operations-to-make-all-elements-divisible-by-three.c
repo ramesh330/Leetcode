@@ -1,16 +1,10 @@
 int minimumOperations(int* nums, int numsSize) 
 {
     int count=0;
+    
     for(int i=0; i<numsSize; i++)
-    {
-        if(nums[i]%3!=0)
-        {
-            count++;
-            if((nums[i] + 1) % 3 == 0)
-            nums[i]++;
-            else
-            nums[i]--;
-        }
-    }
+    if(nums[i]%3!=0)
+    count++;
+
     return count;
 }
